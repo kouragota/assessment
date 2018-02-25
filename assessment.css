@@ -1,0 +1,24 @@
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    border-style: none;
+    color: #FDFFFF
+}
+button:active {
+    color: black;
+}
+body {
+    background-color: #04A6EB;
+    color: #FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+input {
+    height: 20px;
+}
+#result-area {
+    border-color: white
+}
